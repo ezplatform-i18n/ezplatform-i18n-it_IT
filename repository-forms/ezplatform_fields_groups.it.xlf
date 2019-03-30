@@ -11,7 +11,7 @@
         <target xml:lang="it" state="translated">Contenuto</target>
         <note>key: content</note>
         <alt-trans>
-          <target xml:lang="it">Cntenuto</target>
+          <target xml:lang="it">Contenuto</target>
         </alt-trans>
       </trans-unit>
     </body>
